@@ -13,4 +13,4 @@ A company specializing in the development of products for security, monitoring o
 
 - Telegram Channel – [@spide](https://t.me/spide)
 - Telegram Bot - [@spide_robot](https://t.me/spide_robot)
-- Official Website – [spide.pro](https://spide.pro)
+- Official Website – [spide.org](https://spide.org)
