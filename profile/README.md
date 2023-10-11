@@ -5,7 +5,7 @@ A company specializing in the development of products for security, monitoring o
 #### Our Products
 - **Spide** [idea]: Round-the-clock monitoring of the entire network with the ability to search for certain fragments and parameters.
 
-- **Spide Scanner** [dev]: Tool for targeted scanning of websites and networks.
+- **Spide Scanner** [dev]: Cloud service for targeted scanning of websites and networks.
   
 - **Spide Robot** [dev]: Telegram bot ([@spide_robot](https://t.me/spide_robot)) for use Spide Scanner and other small scanners.
 
