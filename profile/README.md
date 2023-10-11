@@ -11,6 +11,8 @@ A company specializing in the development of products for security, monitoring o
 
 - **Spide Detector** [idea]: Server security analysis from the inside, which allows you to identify weaknesses and vulnerable server software.
 
+- **Spide Cloud** [idea]: Security virtual private servers hosting.
+
 #### Contacts
 
 - Telegram Channel – [@spide](https://t.me/spide)
