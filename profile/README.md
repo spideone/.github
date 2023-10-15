@@ -13,7 +13,7 @@ A company specializing in the development of products for security, monitoring o
 
 - **Spide Cloud** [idea]: Security virtual private servers hosting.
 
-- **Spide Keeper** [dev]: Security password keeper for MacOS, only CLI.
+- **Spide Keeper** [release]: Security password keeper with CLI interface and AES256 encryption.
 
 #### Contacts
 
