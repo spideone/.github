@@ -13,6 +13,8 @@ A company specializing in the development of products for security, monitoring o
 
 - **Spide Cloud** [idea]: Security virtual private servers hosting.
 
+- **Spide Keeper** [dev]: Security password keeper for MacOS, only CLI.
+
 #### Contacts
 
 - Telegram Channel – [@spide](https://t.me/spide)
