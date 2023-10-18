@@ -1,6 +1,6 @@
 ## Spide Security
 
-A company specializing in the development of products for security, monitoring of the worldwide web and analysis of websites.
+A company specializing in the development of products for security, monitoring of the worldwide web, analysis of websites and cloud platform.
 
 #### Our Products
 - **Spide** [idea]: Round-the-clock monitoring of the entire network with the ability to search for certain fragments and parameters.
