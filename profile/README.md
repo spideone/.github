@@ -26,3 +26,6 @@ A company specializing in the development of products for security, monitoring o
 
 - Official Website – [spide.org](https://spide.org)
 - Email – [contact@spide.org](mailto:contact@spide.org)
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spide)
