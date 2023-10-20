@@ -8,7 +8,7 @@ A company specializing in the development of products for security, monitoring o
 
 - **Spide Scanner** [dev]: Cloud service for targeted scanning of websites and networks.
   
-- **Spide Robot** [dev]: Telegram bot ([@spide_robot](https://t.me/spide_robot)) for use Spide Scanner and other small scanners.
+- **Spide Robot** [dev]: Telegram bot ([@spide_robot](https://t.me/spide_robot?start=github)) for use Spide Scanner and other small scanners.
 
 - **Spide Detector** [idea]: Server security analysis from the inside, which allows you to identify weaknesses and vulnerable server software.
 
