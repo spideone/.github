@@ -1,3 +1,5 @@
+![cover](https://github.com/spidesecurity/.github/blob/main/github-cover.png?raw=true)
+
 ## Spide Technologies
 
 A company specializing in the development of products for security, monitoring of the worldwide web, analysis of websites and cloud platform.
