@@ -4,11 +4,15 @@
 
 A company specializing in the development of products for security, monitoring of the worldwide web, analysis of websites and cloud platform.
 
-#### :gem: Our Products
+#### :gem: Spide Scanning System (3S)
 
-- **Spide Scanning System** [beta]: Cloud service for targeted scanning of websites and networks.
-  
-- **Spide Robot** [beta]: Telegram bot ([@spide_robot](https://t.me/spide_robot?start=github)) for use Spide Scanner and other small scanners.
+This is our first and main product designed for **cloud scanning of servers and websites** for vulnerabilities.
+
+We are distinguished by our non-standard approach to implementation; we abstract from total control. The system works both on our and user nodes, which makes it possible to [earn money by raising your node](https://spide.pro/partners). This approach also provides high speed and multi-regional scanning.
+
+Node management and control is implemented using our own **secure** protocol with **End-To-End encryption** – [3s-protocol](https://github.com/spidesecurity)
+
+Interface for using the scanner – [t.me/spide_robot](https://t.me/spide_robot?start=github)
 
 #### :link: Social Networks
 
