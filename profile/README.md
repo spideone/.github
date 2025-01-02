@@ -4,10 +4,6 @@
 
 International company specializing in the development of products for security, monitoring of the worldwide web, analysis of websites and cloud platform.
 
-## Spide.one
-
-The main web scanning service.
-
 #### :link: Social Networks
 
 - Telegram – [@spide](https://t.me/spide)
